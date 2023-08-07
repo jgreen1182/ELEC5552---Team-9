@@ -1,2 +1,2 @@
-# ELEC5552---Team-9
+# ELEC5552-Team-9
 ELEC5552 - Team 9
